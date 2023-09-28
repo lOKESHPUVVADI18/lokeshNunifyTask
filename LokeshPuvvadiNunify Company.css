@@ -1,0 +1,505 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.trust-company-images {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 1113.29px;
+    height: 71.67px;
+    top: 1489.11px;
+    left: 403.36px;
+}
+
+.app-container {
+    min-height: 100vh;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: 365.5px;
+}
+
+.nunify-logo {
+    width: 141.63px;
+    height: 50px;
+    top: 14.52px;
+    margin-left: 357.5px;
+}
+
+.hr-line {
+    width: 1920px;
+    top: 79.52px;
+    border: 1px solid #9E92BB
+}
+
+.heading {
+    font-family: Inter;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 81px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #3E2678;
+    ;
+    width: 657px;
+    height: 162.45px;
+    margin-top: 139.52px;
+}
+
+.side-heading {
+    font-family: Inter;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6C6A72;
+    ;
+}
+
+.logins-card {
+    width: 450px;
+    height: 386px;
+    top: 159.52px;
+    left: 1106px;
+    padding: 0px, 0px, 21.45px, 0px;
+    border-radius: 10px;
+}
+
+.disclamimers {
+    width: 516px;
+    height: 92px;
+    top: 438.07px;
+    left: 357.5px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.list-text {
+    list-style-image: url('https://res.cloudinary.com/dd4ujvcon/image/upload/v1695817261/icon__check__pjtu5a.png');
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #86838B;
+
+}
+
+
+.header-bg {
+    width: 450px;
+    height: 79.18px;
+    border-radius: 20px, 20px, 0px, 0px;
+    background: #3E2678;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.text {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FBFBFC;
+}
+
+.pannel-bg {
+    width: 450px;
+    height: 386px;
+    top: 159.52px;
+    left: 26px;
+    padding: 0px, 0px, 21.45px, 0px;
+    border-radius: 20px;
+    border: 0.5px solid #3E2678;
+    box-shadow: 0px 4px 14px 5px rgba(0, 0, 0, 0.15);
+}
+
+.option {
+    background-color: transparent;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    outline: none;
+    border: 0px;
+}
+
+.box-text {
+    font-family: Inter;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin-left: 30px;
+    color: #3E2678;
+}
+
+.span-text {
+    font-family: Inter;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: -0.04em;
+    text-align: center;
+}
+
+.try-free {
+    width: 209px;
+    height: 48px;
+    top: 260.48px;
+    left: 34px;
+    padding: 16px, 32px, 16px, 40px;
+    border-radius: 8px;
+    border: 2px;
+    gap: 12px;
+    border: 2px solid #432B7B;
+    animation-duration: 0ms;
+    margin-left: 30px;
+    background: #432B7B;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    COLOR: #45E6F7;
+
+}
+
+.whats-include-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.whats-include-text {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7A7A7A;
+}
+
+.whats-include-icon {
+    width: 29px;
+    height: 29px;
+    left: 224px;
+    margin-left: 5px;
+
+}
+
+.range-img {
+    width: 1098px;
+    height: 114px;
+    top: 674.52px;
+    left: 360px;
+    margin-bottom: 20px;
+}
+
+.talk-to-us {
+    width: 1087px;
+    height: 363.59px;
+    top: 828.52px;
+    left: 416.5px;
+    border-radius: 20px;
+    opacity: 0.4px;
+    background: #CCCCD5;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.talk-to-us-heading {
+    font-family: Inter;
+    font-size: 41px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    color: #3E2678;
+    ;
+}
+
+.talk-to-us-text {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #4D4D6B;
+    width: 864px;
+    left: 539px;
+}
+
+.talk-to-us-button {
+    width: 174px;
+    height: 48px;
+    top: 1105.37px;
+    left: 884px;
+    padding: 16px, 40px, 16px, 40px;
+    border-radius: 8px;
+    border: 2px;
+    background: linear-gradient(0deg, #3E2678, #3E2678);
+    border: 2px solid #EBEBEE;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #44E6F6;
+}
+
+
+
+.free-trail {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.free-trail-heading {
+    font-family: Inter;
+    font-size: 41px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #3E2678;
+
+}
+
+.free-trail-heading-span {
+    color: #3E2678;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.google-logo {
+    width: 171.7px;
+    height: 58.04px;
+    top: 1489.11px;
+    left: 403.36px;
+}
+
+.adobe-logo {
+    width: 187.25px;
+    height: 48.74px;
+    margin-left: 20px;
+}
+
+.amazon-logo {
+    width: 185.26px;
+    height: 55.83px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.thoughtworks-logo {
+    width: 185.49px;
+    height: 29.71px;
+    top: 1502.73px;
+    left: 1098.65px;
+    margin-left: 20px;
+}
+
+.dellTechnologies-logo {
+    width: 183.45px;
+    height: 23.42px;
+    top: 1506.02px;
+    left: 1333.2px;
+    margin-left: 20px;
+    padding: 0px, 0px, 0px, 0px;
+
+}
+
+.google-logo {
+    width: 171.7px;
+    height: 58.04px;
+    top: 1489.11px;
+    left: 403.36px;
+}
+
+.adobe-logo {
+    width: 187.25px;
+    height: 48.74px;
+    margin-left: 20px;
+}
+
+.amazon-logo {
+    width: 185.26px;
+    height: 55.83px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.thoughtworks-logo {
+    width: 185.49px;
+    height: 29.71px;
+    top: 1502.73px;
+    left: 1098.65px;
+    margin-left: 20px;
+}
+
+.dellTechnologies-logo {
+    width: 183.45px;
+    height: 23.42px;
+    top: 1506.02px;
+    left: 1333.2px;
+    margin-left: 20px;
+    padding: 0px, 0px, 0px, 0px;
+
+}
+
+.free-trail-btn {
+    width: 272px;
+    height: 48px;
+    top: 1600.78px;
+    margin-top: 10px;
+    left: 824px;
+    padding: 16px, 40px, 16px, 40px;
+    border-radius: 10px;
+    border: 2px;
+    border: 2px solid #FFFFFF;
+    background: linear-gradient(0deg, #3E2678, #3E2678);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #44E6F6;
+}
+
+.included-base-plan {
+    width: 1170px;
+    height: 699px;
+    top: 1808.78px;
+    left: 372.14px;
+
+}
+
+.base-plan-heading {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #3E2678;
+}
+
+.base-plan-details-container {
+    width: 1170px;
+    height: 600px;
+    top: 99px;
+    list-style-type: none;
+}
+
+.base-plan-text {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.base-plan-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.base-plan-line {
+    width: 1170px;
+    top: 199px;
+    border: 2px;
+    border: 2px solid #B9B6BE
+}
+
+.base-plan-btn {
+    background-color: transparent;
+    border: none;
+}
+
+.base-plan-img {
+    width: 32px;
+    height: 32px;
+    border: 1px;
+}
+
+
+.talk-to-sales {
+    margin-top: 20px;
+    width: 1172px;
+    height: 282px;
+    top: 2667.78px;
+    left: 374px;
+    border-radius: 20px;
+    background: #3E2678;
+    margin-bottom: 20px;
+    margin-left: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.talk-to-sales-heading {
+    width: 544px;
+    height: 113.56px;
+    top: 2746.56px;
+    left: 438px;
+    font-family: Inter;
+    font-size: 41px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+
+.talk-to-sales-btn {
+    width: 240px;
+    height: 56px;
+    top: 2776.81px;
+    left: 1227px;
+    padding: 16px, 40px, 16px, 40px;
+    border-radius: 10px;
+    border: 2px;
+    background: #44E6F6;
+    color: #3E2678;
+    border: 2px solid #3E2678;
+    font-family: Inter;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+}
